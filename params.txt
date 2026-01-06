@@ -1,0 +1,2 @@
+one cat eat fish
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Automatic, CFG scale: 7, Seed: 2168020621, Size: 512x512, Model hash: 7440042bbd, Model: sd_xl_refiner_1.0, Version: 1.10.1

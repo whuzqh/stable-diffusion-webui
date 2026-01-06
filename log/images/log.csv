@@ -1,0 +1,5 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt,sd_model_name,sd_model_hash
+cat svg,3195648583,512,512,DPM++ SDE,7,48,00000-3195648583.png,,sd_xl_base_1.0_0.9vae,e6bb9ea85b
+dog svg,3190290135,512,512,DPM++ SDE,7,48,00001-3190290135.png,,sd_xl_base_1.0_0.9vae,e6bb9ea85b
+dog svg,3190290135,512,512,DPM++ SDE,7,48,00002-3190290135.png,,sd_xl_base_1.0_0.9vae,e6bb9ea85b
+dog svg,231152820,2048,2048,DPM++ SDE,7,39,00003-231152820.png,,sd_xl_base_1.0_0.9vae,e6bb9ea85b
